@@ -6,6 +6,3 @@
 /.DS_Store
 .vscode/
 target/
-/gradle/
-gradlew
-gradlew.bat
